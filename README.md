@@ -1,4 +1,4 @@
-# Google-Meet-Chatbox-Attendance
+# Google Meet Chatbox Attendance
 A chromium(Chrome, MS Edge, Brave, etc) extension to download the attendance from Google Meet chatbox.
 ## How to use?
 
