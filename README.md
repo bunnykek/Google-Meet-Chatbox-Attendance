@@ -10,7 +10,8 @@ Go to the chrome/edge/etc extensions management page.
   Enable the Developer Mode
   Then on load unpacked.
 
-Now let people comment on gmeet chatbox and at last click on the extension logo from the extension toolbar.
+Now let people comment(Anything like their rollnumber or just 'present') in gmeet chatbox and at last click on the extension logo at the extension toolbar.
 
-![GMEET](https://i.imgur.com/5aGYUzm.png)
-![GMEET](https://i.imgur.com/HYSw6vE.png)
+![GMEET](https://i.imgur.com/ykt3iI2.png)
+
+![GMEET](https://i.imgur.com/eu2ZNHa.png)
