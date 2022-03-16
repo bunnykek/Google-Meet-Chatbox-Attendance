@@ -2,6 +2,8 @@
 A chromium(Chrome, MS Edge, Brave, etc) extension to download the attendance from Google Meet chatbox.
 ## How to use?
 
+[![GMEET](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)](https://microsoftedge.microsoft.com/addons/detail/google-meet-chatbox-atten/jkoldkfennkfgkpjfgednndgflijkkek)
+
 First download the [extension.zip](https://github.com/bunnykek/Google-Meet-Chatbox-Attendance/releases/download/v0.1/extension.zip)
 
 Extract the zip contents to a folder.
